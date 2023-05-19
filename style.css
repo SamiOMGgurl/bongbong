@@ -1,0 +1,51 @@
+body
+{
+    background: url("bg.jpg");
+    background-size: cover;
+  text-align : center;
+}
+
+canvas
+{
+border: 2px solid black;
+}
+
+#dl
+{
+    float:right;
+}
+
+h1
+{
+    color: rgb(38, 0, 255);
+    position : absolute;
+  left : 525px;
+}
+
+#clear 
+{
+  width : 60px;
+  height : 20px;
+  font-size : 12px;
+  position : absolute;
+  top: 101px;
+  left: 612px;
+  color: rgb(38, 0, 255);
+  font-weight: 700;
+  background-color : rgb(255,248,220);
+  border: 1.99px solid black;
+}
+
+#score
+{
+  width : 60px;
+  height : 20px;
+  font-size : 12px;
+  position : absolute;
+  top: 70px;
+  left: 612px;
+  color: rgb(38, 0, 255);
+  font-weight: 700;
+  background-color : rgb(255,248,220);
+  border: 1.99px solid black;
+}
